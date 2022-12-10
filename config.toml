@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
+baseURL = "https://algo.ltyzzz.com/"
 title = "ltyzzz's Algo Repository"
 languageCode = "zh-CN"
 hasCJKLanguage = true
